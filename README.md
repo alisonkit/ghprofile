@@ -19,6 +19,8 @@ Animation
 
 ## OBS
 Streaming
+### Veadotube Mini
+PNGtuber avatar
 
 ## Doom Emacs
 Writing
@@ -30,7 +32,9 @@ Script writing
 ## Kitty + Fish
 Terminal Emulator and Shell
 ### Ranger
+File Explorer
 ### Imagemagick
+Image converter
 
 ## KDE Plasma
 My preferred Desktop Environment
